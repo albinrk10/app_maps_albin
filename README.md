@@ -1,13 +1,10 @@
 # app_maps_albin
-
-
-
-git clone https://github.com/albinrk10/app_maps_albin.git       Para clonar proyecto del repositorio
-git pull                                                            Para bajar cambios del repositorio  
-git status                                                          Para ver los archivos que tiene cambios realizados
-git add .                                                           Para agregar todos los archivos modificados/nuevos a memoria
-git commit -m '<comentario del cambio>'                             Para agregar un comentario para subir
-git push                                                            Para Mandar cambios al repositorio  
+    git clone https://github.com/albinrk10/login_flutter.git        Para clonar proyecto del repositorio
+    git pull                                                            Para bajar cambios del repositorio  
+    git status                                                          Para ver los archivos que tiene cambios realizados
+    git add .                                                           Para agregar todos los archivos modificados/nuevos a memoria
+    git commit -m '<comentario del cambio>'                             Para agregar un comentario para subir
+    git push                                                            Para Mandar cambios al repositorio  
 
 
 
