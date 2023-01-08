@@ -1,5 +1,7 @@
 # app_maps_albin
 
+
+
 git clone https://github.com/albinrk10/app_maps_albin.git       Para clonar proyecto del repositorio
 git pull                                                            Para bajar cambios del repositorio  
 git status                                                          Para ver los archivos que tiene cambios realizados
