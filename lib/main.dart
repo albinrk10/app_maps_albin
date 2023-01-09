@@ -1,5 +1,7 @@
 
 import 'package:app_maps_albin/ui/pages/home/home_page.dart';
+import 'package:app_maps_albin/ui/routes/pages.dart';
+import 'package:app_maps_albin/ui/routes/roustes.dart';
 import 'package:flutter/material.dart';
 
 void main() {runApp( MyApp());
@@ -17,7 +19,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: const HomePage(),
+      initialRoute: Routes.SPALSH,
+      routes:appRoutes() ,
     );
   }
 }
